@@ -1,0 +1,44 @@
+{
+	"appKey": "ymxowe7h+2002282040+evrycy",
+	"host": "https://gov-bus.zjzwfw.gov.cn",
+	"systems": [{
+		"apiList": [{
+			"apiName": "mgop.ztemaps.cultural.loginx",
+			"apiNameCh": "登录",
+			"description": "登录",
+			"requestProperties": [{
+				"id": 1508176,
+				"name": "pageSize",
+				"parentId": -1,
+				"required": true,
+				"type": "2"
+			}, {
+				"id": 1508177,
+				"name": "currentPage",
+				"parentId": -1,
+				"required": true,
+				"type": "2"
+			}],
+			"responseProperties": [{
+				"id": 1508178,
+				"name": "code",
+				"parentId": -1,
+				"required": false,
+				"type": "2"
+			}, {
+				"id": 1508179,
+				"name": "message",
+				"parentId": -1,
+				"required": false,
+				"type": "1"
+			}, {
+				"id": 1508180,
+				"name": "data",
+				"parentId": -1,
+				"required": false,
+				"type": "7"
+			}]
+		}],
+		"sysName": "s7zq6giwi372s20iu3i4gkpi"
+	}]
+}

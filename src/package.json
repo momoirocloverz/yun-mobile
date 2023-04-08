@@ -1,0 +1,18 @@
+{
+    "id": "fui-dropdown-menu",
+    "name": "DropdownMenu 下拉菜单（fui-dropdown-menu）",
+    "version": "v1.5.0",
+    "description": "FirstUI DropdownMenu 下拉菜单，用于弹出一个下拉菜单给用户选择操作。",
+    "keywords": [
+        "DropdownMenu",
+        "下拉菜单",
+        "组件",
+        "FirstUI"
+    ],
+    "dcloudext": {
+        "category": [
+            "前端组件",
+            "通用组件"
+        ]
+    }
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "problemId": 706,
+    "pureName": "文物本体存在损坏、坍塌、灭失等情况",
+    "problemName": "1.文物本体存在损坏、坍塌、灭失等情况。",
+    "problemNoIndexName": "文物本体存在损坏、坍塌、灭失等情况。"
+  },
+  {
+    "problemId": 707,
+    "pureName": "文物本体存在植物侵害、病虫害等情况",
+    "problemName": "2.文物本体存在植物侵害、病虫害等情况。",
+    "problemNoIndexName": "文物本体存在植物侵害、病虫害等情况。"
+  },
+  {
+    "problemId": 708,
+    "pureName": "电线存在未穿管保护、私拉乱接等问题",
+    "problemName": "3.电线存在未穿管保护、私拉乱接等问题。",
+    "problemNoIndexName": "电线存在未穿管保护、私拉乱接等问题。"
+  },
+  {
+    "problemId": 709,
+    "pureName": "生活、宗教用火未采取有效防护措施",
+    "problemName": "4.生活、宗教用火未采取有效防护措施。",
+    "problemNoIndexName": "生活、宗教用火未采取有效防护措施。"
+  },
+  {
+    "problemId": 710,
+    "pureName": "在文物建筑内及周边堆存可燃易燃易爆物品",
+    "problemName": "5.在文物建筑内及周边堆存柴草、木料、纸箱、液化石油气钢瓶、烟花爆竹等可燃易燃易爆物品。",
+    "problemNoIndexName": "在文物建筑内及周边堆存柴草、木料、纸箱、液化石油气钢瓶、烟花爆竹等可燃易燃易爆物品。"
+  },
+  {
+    "problemId": 711,
+    "pureName": "电动自行车、电瓶车在文物建筑内违规停放、充电",
+    "problemName": "6.电动自行车、电瓶车在文物建筑内违规停放、充电。",
+    "problemNoIndexName": "电动自行车、电瓶车在文物建筑内违规停放、充电。"
+  },
+  {
+    "problemId": 712,
+    "pureName": "消火栓无供水，灭火器压力不正常或者使用超期",
+    "problemName": "7.消火栓无供水，灭火器压力不正常或者使用超期。",
+    "problemNoIndexName": "消火栓无供水，灭火器压力不正常或者使用超期。"
+  },
+  {
+    "problemId": 713,
+    "pureName": "未在明显位置张贴禁烟禁火等警示性标识",
+    "problemName": "8.未在明显位置张贴禁烟禁火等警示性标识。",
+    "problemNoIndexName": "未在明显位置张贴禁烟禁火等警示性标识。"
+  },
+  {
+    "problemId": 714,
+    "pureName": "文物本体及周边存在建设、钻探、爆破等行为",
+    "problemName": "9.文物本体及周边存在建设、钻探、爆破等行为。",
+    "problemNoIndexName": "文物本体及周边存在建设、钻探、爆破等行为。"
+  }
+]

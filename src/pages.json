@@ -1,0 +1,523 @@
+{
+  "pages": [
+    {
+      "path": "pages/landing"
+    },
+    {
+      "path": "pages/tourists/index",
+      "style": {
+        "navigationBarTitleText": "永兴护保",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/newIndex/index",
+      "style": {
+        "navigationBarTitleText": "永兴护保",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/login/index",
+      "style": {
+        "navigationBarTitleText": "永兴护保",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/login/auth",
+      "style": {
+        "navigationBarTitleText": "永兴护保",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "永兴护保",
+        "navigationStyle": "custom",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/todo/index",
+      "style": {
+        "navigationBarTitleText": "待办事项",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/self/index",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/tourists/publicity/index",
+      "style": {
+        "navigationBarTitleText": "文保宣传",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/tourists/publicity/detail",
+      "style": {
+        "navigationBarTitleText": "文保宣传",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/register/index",
+      "style": {
+        "navigationBarTitleText": "申请",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/tourists/daolan/index",
+      "style": {
+        "navigationBarTitleText": "文物导览",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/tourists/daolan/detail",
+      "style": {
+        "navigationBarTitleText": "文物导览详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/routinecheck/index",
+      "style": {
+        "navigationBarTitleText": "例行检查",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/routinecheck/djcdetail",
+      "style": {
+        "navigationBarTitleText": "例行检查详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/routinecheck/xcsend",
+      "style": {
+        "navigationBarTitleText": "检查结果上报（已现场处置）",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/routinecheck/zjsend",
+      "style": {
+        "navigationBarTitleText": "检查结果上报（需镇街协助）",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/routinecheck/ysbdetail",
+      "style": {
+        "navigationBarTitleText": "已上报详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/routinecheck/ygqdetail",
+      "style": {
+        "navigationBarTitleText": "已过期详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/hiddentroublereport/index",
+      "style": {
+        "navigationBarTitleText": "问题上报",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/hiddentroublereport/list",
+      "style": {
+        "navigationBarTitleText": "选择文保单位",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/examPaper/index",
+      "style": {
+        "navigationBarTitleText": "考试",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/mission/index",
+      "style": {
+        "navigationBarTitleText": "事件处置",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/mission/new",
+      "style": {
+        "navigationBarTitleText": "事件处置",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/mission/detail",
+      "style": {
+        "navigationBarTitleText": "任务详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/index",
+      "style": {
+        "navigationBarTitleText": "日常巡查",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/new",
+      "style": {
+        "navigationBarTitleText": "巡检上报",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/detail",
+      "style": {
+        "navigationBarTitleText": "巡检详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/map",
+      "style": {
+        "navigationBarTitleText": "地图",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/equipIndex",
+      "style": {
+        "navigationBarTitleText": "设备检查",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/equipNew",
+      "style": {
+        "navigationBarTitleText": "设备检查上报",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/equipDetail",
+      "style": {
+        "navigationBarTitleText": "设备检查详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspection/equipMap",
+      "style": {
+        "navigationBarTitleText": "设备检查上报",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/notice/index",
+      "style": {
+        "navigationBarTitleText": "通知公告",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/notice/detail",
+      "style": {
+        "navigationBarTitleText": "通知公告详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/index",
+      "style": {
+        "navigationBarTitleText": "培训考核",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/learn/index",
+      "style": {
+        "navigationBarTitleText": "学习",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/learn/detail",
+      "style": {
+        "navigationBarTitleText": "学习详情",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/train/index",
+      "style": {
+        "navigationBarTitleText": "培训",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/train/detail",
+      "style": {
+        "navigationBarTitleText": "培训详情",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/exam/index",
+      "style": {
+        "navigationBarTitleText": "考试",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/trainingCheck/exam/detail",
+      "style": {
+        "navigationBarTitleText": "考试详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/troubleReportReview/index",
+      "style": {
+        "navigationBarTitleText": "问题上报审核",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/troubleReportReview/check",
+      "style": {
+        "navigationBarTitleText": "问题上报详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/missionCheck/index",
+      "style": {
+        "navigationBarTitleText": "事项处置审核",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/missionCheck/detail",
+      "style": {
+        "navigationBarTitleText": "事项处置详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspectionCheck/index",
+      "style": {
+        "navigationBarTitleText": "日常巡查审核",
+        "enablePullDownRefresh": true,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    },
+    {
+      "path": "pages/inspectionCheck/detail",
+      "style": {
+        "navigationBarTitleText": "日常巡查详情",
+        "enablePullDownRefresh": false,
+        "app-plus": {
+          "titleNView": false
+        }
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    // "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "app-plus": {
+      "background": "#efeff4"
+    }
+  }
+  // "tabBar": {
+  // 	"color": "#7A7E83",
+  // 	"selectedColor": "#42b1fe",
+  // 	"borderStyle": "black",
+  // 	"backgroundColor": "#ffffff",
+  // 	"iconWidth": "25px",
+  // 	"height": "65px",
+  // 	"list": [
+  // 		{
+  // 			"iconPath": "static/tabbarimg/icon_workspace.png",
+  // 			"selectedIconPath": "static/tabbarimg/icon_workspace_active.png",
+  // 			"pagePath": "pages/tourists/index",
+  // 			"text": "首页"
+  // 		},
+  // 		{
+  // 			"iconPath": "static/tabbarimg/icon_workspace.png",
+  // 			"selectedIconPath": "static/tabbarimg/icon_workspace_active.png",
+  // 			"pagePath": "pages/index/index",
+  // 			"text": "首页"
+  // 		},
+  // 		{
+  // 			"iconPath": "static/tabbarimg/icon_todo.png",
+  // 			"selectedIconPath": "static/tabbarimg/icon_todo_active.png",
+  // 			"pagePath": "pages/todo/index",
+  // 			"text": "待办"
+  // 		},
+  // 		{
+  // 			"iconPath": "static/tabbarimg/icon_self.png",
+  // 			"selectedIconPath": "static/tabbarimg/icon_self_active.png",
+  // 			"pagePath": "pages/self/index",
+  // 			"text": "我的"
+  // 		}
+  // 	]
+  // }
+}

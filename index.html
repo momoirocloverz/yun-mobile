@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <script>
+        var coverSupport = 'CSS' in window && typeof CSS.supports === 'function' && (CSS.supports('top: env(a)') ||
+            CSS.supports('top: constant(a)'))
+        document.write(
+            '<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' +
+            (coverSupport ? ', viewport-fit=cover' : '') + '" />')
+    </script>
+    <!-- <script type="text/javascript" src="/src/zwjsbridge.js"></script> -->
+    <script type="text/javascript" src="//assets.zjzwfw.gov.cn/assets/ZWJSBridge/1.1.0/zwjsbridge.js">
+    </script>
+    <script type="text/javascript" src="//assets.zjzwfw.gov.cn/assets/zwlog/1.0.0/zwlog.js"></script>
+    <script>
+        ZWJSBridge.onReady(() => {
+            console.log('初始化完成后，执行bridge方法')
+            window.ZWJSBridge = ZWJSBridge;
+        })
+    </script>
+
+    <script>
+        const zwlog = new ZwLog({
+            _user_id: window.localStorage.getItem('ding_id'),
+            _user_nick: window.localStorage.getItem('name'),
+        })
+    </script>
+
+    <title></title>
+    <!--preload-links-->
+    <!--app-context-->
+</head>
+
+<body>
+    <div id="app">
+        <!--app-html-->
+    </div>
+    <script type="module" src="/src/main.js"></script>
+
+</body>
+
+</html>
